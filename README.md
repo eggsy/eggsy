@@ -4,7 +4,7 @@
   |
   <a href="https://instagram.com/eggsy_dev" target="_blank">instagram</a>
   |
-  <a href="https://discord.eggsy.codes" target="_blank">discord</a>
+  <a href="https://discord.eggsy.xyz" target="_blank">discord</a>
 </p>
 
 <p align="center">
