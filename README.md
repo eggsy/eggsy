@@ -3,8 +3,6 @@
   <a href="https://eggsy.xyz" target="_blank">website</a>
   |
   <a href="https://twitter.com/eggsydev" target="_blank">twitter</a>
-  |
-  <a href="https://discord.eggsy.xyz" target="_blank">discord</a>
 </p>
 
 <p align="center">
