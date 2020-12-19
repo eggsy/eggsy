@@ -4,7 +4,7 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eggsy&theme=dark&hide_border=true&layout=compact">
 
-Hi 👋 I am a young developer from <img width="20" height="18" src="https://image.flaticon.com/icons/svg/555/555560.svg"> **Turkey**. I am an "English Language Teaching" student but I have enough experience on web development and **I am a fullstack developer** that creates websites mostly for ~~free~~ fun.
+Hi 👋 I am a young developer from <img width="20" align="center" src="https://image.flaticon.com/icons/svg/555/555560.svg"> **Turkey**. I am an "English Language Teaching" student but I have enough experience on web development and **I am a fullstack developer** that creates websites mostly for ~~free~~ fun.
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
