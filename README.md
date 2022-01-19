@@ -11,9 +11,9 @@ The passion of programming started as a hobby at a young age and now I am always
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast: Geliştiriciler İçin Üretkenlik Aracı](https://eggsy.xyz/blog/gonderi/raycast-uretkenlik-araci)
 - [Must: Ne İzlediğinizi Bilin](https://eggsy.xyz/blog/gonderi/must-ne-izlediginizi-bilin)
 - [İki Türk, Üç Yabancı, Beş Gün: İstanbul](https://eggsy.xyz/blog/gonderi/iki-turk-uc-yabanci-bes-gun)
 - [10 Gün, 4 Ülke: Hangi Balkan Ülkesi Daha İyi?](https://eggsy.xyz/blog/gonderi/on-gun-dort-farkli-ulke)
 - [Spotify Bağlantısından YouTube Videosu Bulma &lpar;Node&rpar;](https://eggsy.xyz/blog/gonderi/spotify-baglantisindan-youtube-videosu-bulma)
-- [SLOWLY: Yeni Köye Eski Adet?](https://eggsy.xyz/blog/gonderi/slowly-yeni-koye-eski-adet)
 <!-- BLOG-POST-LIST:END -->
