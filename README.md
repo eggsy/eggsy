@@ -17,3 +17,11 @@ The passion of programming started as a hobby at a young age and now I am always
 - [İki Türk, Üç Yabancı, Beş Gün: İstanbul](https://eggsy.xyz/blog/gonderi/iki-turk-uc-yabanci-bes-gun)
 - [10 Gün, 4 Ülke: Hangi Balkan Ülkesi Daha İyi?](https://eggsy.xyz/blog/gonderi/on-gun-dort-farkli-ulke)
 <!-- BLOG-POST-LIST:END -->
+
+### Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/eggsy">
+    <img src='https://cdn.jsdelivr.net/gh/eggsy/.github/sponsors.svg'/>
+  </a>
+</p>
