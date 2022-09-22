@@ -11,11 +11,11 @@ The passion of programming started as a hobby at a young age and now I am always
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Muş&#39;ta Okumak](https://eggsy.xyz/blog/gonderi/musta-okumak)
-- [Raycast: Geliştiriciler İçin Üretkenlik Aracı](https://eggsy.xyz/blog/gonderi/raycast-uretkenlik-araci)
-- [Must: Ne İzlediğinizi Bilin](https://eggsy.xyz/blog/gonderi/must-ne-izlediginizi-bilin)
-- [İki Türk, Üç Yabancı, Beş Gün: İstanbul](https://eggsy.xyz/blog/gonderi/iki-turk-uc-yabanci-bes-gun)
-- [10 Gün, 4 Ülke: Hangi Balkan Ülkesi Daha İyi?](https://eggsy.xyz/blog/gonderi/on-gun-dort-farkli-ulke)
+- [Muş&#39;ta Okumak](https://eggsy.xyz/blog/musta-okumak)
+- [Raycast: Geliştiriciler İçin Üretkenlik Aracı](https://eggsy.xyz/blog/raycast-uretkenlik-araci)
+- [Must: Ne İzlediğinizi Bilin](https://eggsy.xyz/blog/must-ne-izlediginizi-bilin)
+- [İki Türk, Üç Yabancı, Beş Gün: İstanbul](https://eggsy.xyz/blog/iki-turk-uc-yabanci-bes-gun)
+- [10 Gün, 4 Ülke: Hangi Balkan Ülkesi Daha İyi?](https://eggsy.xyz/blog/on-gun-dort-farkli-ulke)
 <!-- BLOG-POST-LIST:END -->
 
 ### Sponsors
