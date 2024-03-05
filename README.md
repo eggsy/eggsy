@@ -4,9 +4,7 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eggsy&theme=dark&hide_border=true&layout=compact">
 
-Hi 👋 I am a young developer from <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Turkey**. I am an English Language Teaching student and I have dealt with web development quite a lot now, **I am also a full-stack web developer** that creates websites and apps mostly for ~~free~~ fun.
-
-The passion of programming started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. I am more focused on web development since the latest years and I am trying to learn more about them.
+Hi 👋 I am a young developer from <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Türkiye**. I've been professionally creating web apps since 2019 using React.js, Vue.js, Node.js, TypeScript and many more modern technologies! I'm always trying to improve myself and learn more about the industry.
 
 ### My latest blog posts
 
